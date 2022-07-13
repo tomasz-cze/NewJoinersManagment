@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="training_type" label="Training type" language="en" table="x_801888_nj_trainings">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>training_type</element>
+            <help/>
+            <hint/>
+            <label>Training type</label>
+            <language>en</language>
+            <name>x_801888_nj_trainings</name>
+            <plural>Training types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-13 10:58:13</sys_created_on>
+            <sys_id>7a75506f2f201110e9b2d0e62799b62c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Training type</sys_name>
+            <sys_package display_value="New Joiners Managment" source="x_801888_nj">a5251c2f2f201110e9b2d0e62799b627</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="New Joiners Managment">a5251c2f2f201110e9b2d0e62799b627</sys_scope>
+            <sys_update_name>sys_documentation_x_801888_nj_trainings_training_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-13 10:58:13</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

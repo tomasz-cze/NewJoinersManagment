@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 10:58:15</sys_created_on>
+        <sys_id>2b75506f2f201110e9b2d0e62799b676</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_801888_nj_trainings.x_801888_nj.manager</sys_name>
+        <sys_package display_value="New Joiners Managment" source="x_801888_nj">a5251c2f2f201110e9b2d0e62799b627</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Joiners Managment">a5251c2f2f201110e9b2d0e62799b627</sys_scope>
+        <sys_security_acl display_value="x_801888_nj_trainings">a775506f2f201110e9b2d0e62799b674</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2b75506f2f201110e9b2d0e62799b676</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 10:58:15</sys_updated_on>
+        <sys_user_role display_value="x_801888_nj.manager" name="x_801888_nj.manager">6b35182f2f201110e9b2d0e62799b6b1</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
