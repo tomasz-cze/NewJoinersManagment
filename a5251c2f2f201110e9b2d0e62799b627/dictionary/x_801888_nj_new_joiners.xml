@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="New Joiners" max_length="40" name="x_801888_nj_new_joiners" sizeclass="0" type="collection">
+        <element label="First name" max_length="40" name="first_name" type="string"/>
+        <element label="Level" max_length="40" name="level" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Surname" max_length="40" name="surname" type="string"/>
+    </element>
+</database>
