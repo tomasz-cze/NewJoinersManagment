@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_801888_nj_new_joiners</description>
+        <name>x_801888_nj_new_joiners</name>
+        <operation display_value="delete">delete</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 11:05:44</sys_created_on>
+        <sys_id>cd3710ef2f201110e9b2d0e62799b6cc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_801888_nj_new_joiners</sys_name>
+        <sys_package display_value="New Joiners Managment" source="x_801888_nj">a5251c2f2f201110e9b2d0e62799b627</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Joiners Managment">a5251c2f2f201110e9b2d0e62799b627</sys_scope>
+        <sys_update_name>sys_security_acl_cd3710ef2f201110e9b2d0e62799b6cc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 11:05:44</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="New Joiners Managment">a5251c2f2f201110e9b2d0e62799b627</application>
+        <file_path/>
+        <instance_id>71036e4edbfa0c904d2bac44d49619c4</instance_id>
+        <instance_name>dev99799</instance_name>
+        <name>sys_security_acl_cd3710ef2f201110e9b2d0e62799b6cc</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_801888_nj_new_joiners</description><name>x_801888_nj_new_joiners</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-07-13 11:05:44</sys_created_on><sys_id>cd3710ef2f201110e9b2d0e62799b6cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_801888_nj_new_joiners</sys_name><sys_package display_value="New Joiners Managment" source="x_801888_nj">a5251c2f2f201110e9b2d0e62799b627</sys_package><sys_policy/><sys_scope display_value="New Joiners Managment">a5251c2f2f201110e9b2d0e62799b627</sys_scope><sys_update_name>sys_security_acl_cd3710ef2f201110e9b2d0e62799b6cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-07-13 11:05:44</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-1117838834</payload_hash>
+        <record_name>x_801888_nj_new_joiners</record_name>
+        <reverted_from/>
+        <source>d426982b2f201110e9b2d0e62799b6be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-13 11:05:44</sys_created_on>
+        <sys_id>013710ef2f201110e9b2d0e62799b6cf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>181f73c788d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-13 11:05:44</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>493710efcf201110f6f8eaa47e8598ce</update_guid>
+        <update_guid_history>493710efcf201110f6f8eaa47e8598ce:-1117838834</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-14 10:40:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>41eb9116b288487c96774fc374a68004</sys_id>
+        <sys_metadata>cd3710ef2f201110e9b2d0e62799b6cc</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_801888_nj_new_joiners</sys_name>
+        <sys_package display_value="New Joiners Managment" source="x_801888_nj">a5251c2f2f201110e9b2d0e62799b627</sys_package>
+        <sys_parent display_value="">8d3710ef2f201110e9b2d0e62799b6d1</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="New Joiners Managment">a5251c2f2f201110e9b2d0e62799b627</sys_scope>
+        <sys_scope_delete display_value="">930d0de4e9a54d288ea35ff086174090</sys_scope_delete>
+        <sys_update_name>sys_security_acl_cd3710ef2f201110e9b2d0e62799b6cc</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_cd3710ef2f201110e9b2d0e62799b6cc">013710ef2f201110e9b2d0e62799b6cf</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-14 10:40:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

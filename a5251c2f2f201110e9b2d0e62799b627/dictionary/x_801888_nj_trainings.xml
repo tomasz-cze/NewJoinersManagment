@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Trainings" max_length="40" name="x_801888_nj_trainings" type="collection">
+    <element label="Trainings" max_length="40" name="x_801888_nj_trainings" sizeclass="0" type="collection">
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Training type" max_length="40" name="training_type" type="string"/>
+        <element attributes="encode_utf8=false" label="Approver" max_length="32" name="u_approver" reference="sys_user" type="reference"/>
+        <element attributes="encode_utf8=false" label="Department Training" max_length="32" name="u_dept_training" reference="cmn_department" type="reference"/>
+        <element label="Training Duration" max_length="40" name="u_glide_duration_2" type="glide_duration"/>
+        <element label="Order" max_length="40" name="u_order" type="float"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="Training Cost" max_length="20" name="u_price_3" type="price"/>
+        <element attributes="edge_encryption_enabled=true" label="Trainer" max_length="40" name="u_trainer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Training Name" max_length="40" name="u_training_name" type="string"/>
+        <index name="index">
+            <element name="u_approver"/>
+        </index>
+        <index name="index2">
+            <element name="u_dept_training"/>
+        </index>
     </element>
 </database>

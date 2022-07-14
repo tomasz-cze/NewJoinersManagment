@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="all_tables.text_index_translations=true,display_image=photo,global_search_config_handler=UserConfig,ih_process_sync_enabled=true,iterativeDelete=true,metadata_link_exempt=true,ref_ac_columns=email,ref_ac_columns_search=true,ref_ac_order_by=name,ref_auto_completer=AJAXTableCompleter" create_roles="user_admin" defaultsort="-1" dynamic_creation_script="dynamicUserCreation(current, value);" label="User" max_length="40" name="sys_user" sizeclass="622" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="4" label="Level" mandatory="true" max_length="40" name="x_801888_nj_u_level" type="string">
+            <choice>
+                <element inactive_on_update="false" label="0" sequence="0" value="0"/>
+                <element inactive_on_update="false" label="1" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="3" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="4" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="5" value="5"/>
+                <element inactive_on_update="false" label="6" sequence="6" value="6"/>
+                <element inactive_on_update="false" label="7" sequence="7" value="7"/>
+            </choice>
+        </element>
+    </element>
+</database>

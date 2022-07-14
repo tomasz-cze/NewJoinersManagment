@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="" label="New Joiners" language="en" table="x_801888_nj_new_joiners">
+    <sys_documentation element="x_801888_nj_u_level" label="Level" language="en" table="sys_user">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element/>
+            <element>x_801888_nj_u_level</element>
             <help/>
             <hint/>
-            <label>New Joiners</label>
+            <label>Level</label>
             <language>en</language>
-            <name>x_801888_nj_new_joiners</name>
-            <plural>New Joiners</plural>
+            <name>sys_user</name>
+            <plural>Levels</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-07-13 11:05:44</sys_created_on>
-            <sys_id>493710ef2f201110e9b2d0e62799b6d7</sys_id>
+            <sys_created_on>2022-07-14 09:52:06</sys_created_on>
+            <sys_id>1cff857b2f201110e9b2d0e62799b66e</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>New Joiners</sys_name>
+            <sys_name>Level</sys_name>
             <sys_package display_value="New Joiners Managment" source="x_801888_nj">a5251c2f2f201110e9b2d0e62799b627</sys_package>
             <sys_policy/>
             <sys_scope display_value="New Joiners Managment">a5251c2f2f201110e9b2d0e62799b627</sys_scope>
-            <sys_update_name>sys_documentation_x_801888_nj_new_joiners__en</sys_update_name>
+            <sys_update_name>sys_documentation_sys_user_x_801888_nj_u_level_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-07-13 11:05:44</sys_updated_on>
+            <sys_updated_on>2022-07-14 09:52:06</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
