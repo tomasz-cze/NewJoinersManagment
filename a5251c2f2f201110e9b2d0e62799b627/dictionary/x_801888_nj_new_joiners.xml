@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_user" label="New Joiners" max_length="40" name="x_801888_nj_new_joiners" type="collection">
+        <element label="Did You send all documentation to HR Department?" max_length="40" name="documentation_complete" read_only="true" type="boolean"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Did You send all documentation to HR Department?" max_length="40" name="u_doc_complet" type="boolean"/>
+    </element>
+</database>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_801888_nj.new_joiners_user" name="x_801888_nj.new_joiners_user">b03790af2f201110e9b2d0e62799b60a</contains>
+        <role display_value="x_801888_nj.manager" name="x_801888_nj.manager">6b35182f2f201110e9b2d0e62799b6b1</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-07-21 15:08:17</sys_created_on>
+        <sys_id>5c7b9e822fb01110e9b2d0e62799b64f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_801888_nj.new_joiners_user.x_801888_nj.manager</sys_name>
+        <sys_package display_value="New Joiners Managment" source="x_801888_nj">a5251c2f2f201110e9b2d0e62799b627</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="New Joiners Managment">a5251c2f2f201110e9b2d0e62799b627</sys_scope>
+        <sys_update_name>sys_user_role_contains_5c7b9e822fb01110e9b2d0e62799b64f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-07-21 15:08:17</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
